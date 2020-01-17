@@ -1,0 +1,74 @@
+body {
+  font-family: Helvetica, Verdana, Arial, sans-serif; 
+  background: url(/NYSL_Website/images/nysl_logo.png), url(images/soccer.png); 
+  background-repeat: no-repeat; 
+  background-size: 150px 150px, 1024px 768px ;
+  background-attachment: relative;
+}
+
+#container{
+  max-width: 900px;
+  min-width: 500px;
+  text-align: left;
+  margin-left: 0;
+  margin-right: auto;
+}
+
+body {
+  color: #6a6c6f;
+  background-color: #f1f3f6;
+  margin-top:30px;
+}
+
+.container {
+  max-width: 960px;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.nav li {
+  border-bottom: 1px solid #eee;
+}
+
+.nav li a {
+  font-size: 14px;
+}
+
+#accordionMenu {
+  max-width: 300px;
+}
+
+.panel-body {
+  padding: 0;
+}
+
+.panel-group .panel+.panel {
+  margin-top: 0;
+  border-top: 0;
+}
+
+.panel-group .panel {
+  border-radius: 0;
+}
+
+.panel-default>.panel-heading {
+  color: #333;
+  background-color: #fff;
+  border-color: #e4e5e7;
+  padding: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.panel-default>.panel-heading a {
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+}
+

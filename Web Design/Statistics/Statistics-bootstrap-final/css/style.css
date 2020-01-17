@@ -1,0 +1,16 @@
+
+/* 
+font-family: 'Kalam', cursive; */
+
+
+h1, h2, h3, h4, th, p, nav{
+  font-family: 'Kalam', cursive;
+
+}
+
+#columns{
+  margin-bottom: -10px;
+
+}
+
+

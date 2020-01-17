@@ -1,0 +1,147 @@
+
+.container{
+        background-image: url("../img/design1_image1.jpg");
+        background-repeat: repeat;
+        width: 90%;
+        height: 400px;     
+}
+
+.nav a{
+        background-color: blue;
+        color:white;
+        float: right;
+        border:solid black;
+        margin: 5px;
+        margin-top: -10px;
+        border-color: black;
+
+}
+
+#green{
+
+        background-color: green;
+
+}
+h1{
+        text-align: left;
+
+        margin-bottom: 10px;        
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        
+}
+
+h2{
+        text-align: center; 
+        display: block;
+        border: 100px;
+        margin-top: 0px;
+        margin-right: 100px;
+}
+
+.articles{
+                display: inline-block;
+                text-align: center;
+
+}
+.center-par{
+margin-left: -80px;
+}
+
+.image-coment{
+        height: 30px;
+        text-align: center;
+        border:solid black;
+
+}
+
+
+
+
+#logo{
+        float: left;
+        display: inline-block;
+        height: 200px;
+        width: 200px;
+}
+
+
+
+
+#greenbg{
+
+        background-color: green;
+
+
+}
+
+.getright{
+        max-width: 50%;
+        position: absolute;
+        float: right;
+}
+
+#underline{
+
+        text-decoration:underline ;
+        font-style: italic;
+        text-align: center;
+
+}
+
+.text-center{
+
+        text-align: center;
+}
+
+table, tr, th{
+
+        text-align: center;
+        vertical-align: 30px;
+        padding: 25px;
+
+}
+
+
+table{
+        padding: 20%;
+}
+
+.center-table{
+        /*overflow-x:auto ;*/
+        text-align: center;
+        align-content: center;
+        
+}
+
+#table{
+        display: inline-block;
+}
+
+form>label 
+{
+        text-align: left;
+        padding: 2%;
+
+}
+.jbox-right{
+        margin-right: 10px;
+}
+
+.underline{
+        border: none;
+        border-bottom: solid 1px rgb(0,0,0)  ;
+}
+
+iframe{
+        width: 150px;
+        height: 150px;
+}
+
+.column-container{
+        display: flex;
+        flex-direction: column;        
+        
+}
+
